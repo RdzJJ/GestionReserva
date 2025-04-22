@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Aplication",
+    "\\Aplication\\Commands"
   ],
-  "SelectedNode": "\\Core",
+  "SelectedNode": "\\Aplication\\Commands\\algo.txt",
   "PreviewInSolutionExplorer": false
 }
