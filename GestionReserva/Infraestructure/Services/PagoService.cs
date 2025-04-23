@@ -1,4 +1,3 @@
-using Core.Entities;
 using Core.Interfaces;
 
 namespace Infrastructure.Services
@@ -7,7 +6,7 @@ namespace Infrastructure.Services
     {
         public bool ProcesarPago(int reservaId, decimal monto, bool esPagoCompleto)
         {
-            return true; // Simulación
+            return true; // SimulaciÃ³n
         }
     }
 }

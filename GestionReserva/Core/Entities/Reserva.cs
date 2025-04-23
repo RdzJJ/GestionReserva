@@ -4,11 +4,15 @@ namespace Core.Entities
 {
     public class Reserva
     {
-        public int Id { get; private set; }
-        public List<ServicioReservado> Servicios { get; private set; }
-        public EstadoReserva Estado { get; private set; }
-        public decimal MontoTotal { get; private set; }
+        public int Id { get; set; }
+        public List<ServicioReservado> Servicios { get; set; } = new();
+        public EstadoReserva Estado { get; set; }
+        public decimal MontoTotal { get; set; }
 
+        // Constructor sin parametros
+        public Reserva() { }
+
+        // Constructor Original
         public Reserva(List<ServicioReservado> servicios, decimal montoTotal)
         {
             Servicios = servicios;
@@ -29,7 +33,12 @@ namespace Core.Entities
 
     public class ServicioReservado
     {
-        public string Tipo { get; set; } // "Vuelo", "Hotel"
-        public string IdExterno { get; set; }
+        public int Id { get; set; }
+        public string Tipo { get; set; } = string.Empty;
+        public string IdExterno { get; set; } = string.Empty;
+        public int ReservaId { get; set; }
+        public Reserva? Reserva { get; set; }
+
+        public ServicioReservado() { }
     }
 }

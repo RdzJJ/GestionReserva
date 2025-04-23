@@ -1,41 +1,49 @@
-var builder = WebApplication.CreateBuilder(args);
+using Microsoft.AspNetCore.Builder;
+using Microsoft.OpenApi.Models;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
+using Core.Interfaces;
+using Infrastructure.Repositories;
+using Infrastructure.Adapters;
+using Infrastructure.Services;
+using Application.Handlers;
+using Infrastructure.Persistence;
+using Microsoft.EntityFrameworkCore;
 
-// Add services to the container.
-// Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
-builder.Services.AddOpenApi();
+var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<ReservaDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+// 1. Agregar controladores
+builder.Services.AddControllers();
+
+// 2. Configurar Swagger
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
+// 3. Registrar dependencias (Inyección de dependencias)
+builder.Services.AddSingleton<IReservaRepository, ReservaRepository>();
+builder.Services.AddSingleton<IProveedorAdapter, ProveedorHotelAdapter>();
+// Si tienes más adaptadores, agrégalos aquí:
+builder.Services.AddSingleton<IProveedorAdapter, ProveedorVueloAdapter>();
+builder.Services.AddSingleton<IProveedorAdapter, ProveedorTourAdapter>();
+
+builder.Services.AddSingleton<IPagoService, PagoService>();
+
+// Handler: puedes registrarlo como Transient o Scoped
+builder.Services.AddTransient<CrearReservaHandler>();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+// 4. Configurar el pipeline HTTP
 if (app.Environment.IsDevelopment())
 {
-    app.MapOpenApi();
+    app.UseSwagger();
+    app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
+app.UseAuthorization();
 
-var summaries = new[]
-{
-    "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-};
-
-app.MapGet("/weatherforecast", () =>
-{
-    var forecast =  Enumerable.Range(1, 5).Select(index =>
-        new WeatherForecast
-        (
-            DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
-            Random.Shared.Next(-20, 55),
-            summaries[Random.Shared.Next(summaries.Length)]
-        ))
-        .ToArray();
-    return forecast;
-})
-.WithName("GetWeatherForecast");
+app.MapControllers();
 
 app.Run();
-
-record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
-{
-    public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
-}

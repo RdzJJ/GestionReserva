@@ -1,7 +1,4 @@
-﻿using System;
-using Core.Entities;
-
-namespace Core.Interfaces
+﻿namespace Core.Interfaces
 {
     public interface IPagoService
     {

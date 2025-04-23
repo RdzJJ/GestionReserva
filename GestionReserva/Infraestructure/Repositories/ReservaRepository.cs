@@ -7,10 +7,10 @@ namespace Infrastructure.Repositories
 {
     public class ReservaRepository : IReservaRepository
     {
-        private readonly List<ReservaController> _reservas = new();
+        private readonly List<Reserva> _reservas = new();
 
-        public void Add(ReservaController reserva) => _reservas.Add(reserva);
-        public void Update(ReservaController reserva) { /* Actualiza la reserva */ }
-        public ReservaController GetById(int id) => _reservas.FirstOrDefault(r => r.Id == id);
+        public void Add(Reserva reserva) => _reservas.Add(reserva);
+        public void Update(Reserva reserva) { /* Actualiza la reserva */ }
+        public Reserva? GetById(int id) => _reservas.FirstOrDefault(r => r.Id == id);
     }
 }

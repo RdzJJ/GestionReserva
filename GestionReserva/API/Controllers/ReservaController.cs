@@ -2,10 +2,10 @@ using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using Application.Commands;
 using Application.Handlers;
-using Infraestructure.Adapters;
-using Infraestructure.Services;
-using Core.Interfaces;
+using Infrastructure.Adapters;
+using Infrastructure.Services;
 using Infrastructure.Repositories;
+using Core.Interfaces;
 
 namespace API.Controllers
 {
@@ -20,7 +20,7 @@ namespace API.Controllers
             var proveedores = new List<IProveedorAdapter>
             {
                 new ProveedorHotelAdapter(),
-                // Agrega los otros adapters aquí (ProveedorVueloAdapter, ProveedorTourAdapter)
+                new ProveedorVueloAdapter(),
             };
             var pagoService = new PagoService();
             var reservaRepository = new ReservaRepository();

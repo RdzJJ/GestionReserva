@@ -1,13 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Aplication",
-    "\\Aplication\\Commands",
+    "\\API",
+    "\\API\\Controllers",
     "\\Core",
+    "\\Core\\Aggregates",
     "\\Core\\Entities",
     "\\Core\\Interfaces",
-    "\\Infraestructure"
+    "\\Core\\Services",
+    "\\Infraestructure",
+    "\\Infraestructure\\Persistence"
   ],
-  "SelectedNode": "\\Core\\Interfaces\\IProveedorAdapter.cs",
+  "SelectedNode": "\\Core\\Aggregates",
   "PreviewInSolutionExplorer": false
 }

@@ -24,9 +24,18 @@ namespace Application.Handlers
             // 1. Consultar disponibilidad en todos los proveedores
             foreach (var servicio in command.Servicios)
             {
+                Console.WriteLine($"Buscando adaptador para tipo: {servicio.Tipo}");
                 var adapter = _proveedores.FirstOrDefault(p => p.GetType().Name.Contains(servicio.Tipo));
-                if (adapter == null || !adapter.ConsultarDisponibilidad(servicio))
-                    return false; // No disponible
+                if (adapter == null)
+                {
+                    Console.WriteLine($"No se encontr√≥ adaptador para tipo: {servicio.Tipo}");
+                    return false;
+                }
+                if (!adapter.ConsultarDisponibilidad(servicio))
+                {
+                    Console.WriteLine($"No hay disponibilidad para tipo: {servicio.Tipo}");
+                    return false;
+                }
             }
 
             // 2. Crear reserva
@@ -42,10 +51,12 @@ namespace Application.Handlers
             reserva.MarcarPagada();
             _reservaRepository.Update(reserva);
 
-            // 4. Enviar vouchers (puedes usar un servicio de notificaciÛn aquÌ)
+            // 4. Enviar vouchers (puedes usar un servicio de notificaci√≥n aqu√≠)
             // NotificacionService.EnviarVouchers(reserva);
 
             return true;
+
+
         }
     }
 }

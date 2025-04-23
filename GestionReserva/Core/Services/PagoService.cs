@@ -7,7 +7,7 @@ namespace Infraestructure.Services
     {
         public bool ProcesarPago(int reservaID, decimal monto, bool esPagoCompleto)
         {
-            return true; // solamente para hacer la simulación
+            return true; // solamente para hacer la simulacion
         }
     }
 }
