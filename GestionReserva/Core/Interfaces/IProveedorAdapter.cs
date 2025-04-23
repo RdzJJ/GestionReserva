@@ -1,9 +1,10 @@
 ﻿using Core.Entities;
+using Core.ValueObjects;
 
 namespace Core.Interfaces
 {
     public interface IProveedorAdapter
     {
-        bool ConsultarDisponibilidad(ServicioReservado servicio);
+        bool ConsultarDisponibilidad(DetalleServicio servicio);
     }
 }

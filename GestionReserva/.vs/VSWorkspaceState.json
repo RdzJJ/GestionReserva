@@ -3,14 +3,15 @@
     "",
     "\\API",
     "\\API\\Controllers",
+    "\\Aplication",
     "\\Core",
     "\\Core\\Aggregates",
-    "\\Core\\Entities",
     "\\Core\\Interfaces",
-    "\\Core\\Services",
+    "\\Core\\ValueObjects",
     "\\Infraestructure",
+    "\\Infraestructure\\Adapters",
     "\\Infraestructure\\Persistence"
   ],
-  "SelectedNode": "\\Core\\Aggregates",
+  "SelectedNode": "\\Infraestructure\\Persistence\\DbContext.cs",
   "PreviewInSolutionExplorer": false
 }

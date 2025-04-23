@@ -1,5 +1,5 @@
-using System.Collections.Generic;
-using System.Linq;
+using System;
+using Core.Aggregates;
 using Core.Entities;
 using Core.Interfaces;
 using Application.Commands;
@@ -21,26 +21,36 @@ namespace Application.Handlers
 
         public bool Handle(CrearReservaCommand command)
         {
-            // 1. Consultar disponibilidad en todos los proveedores
-            foreach (var servicio in command.Servicios)
+            // 1. Consultar disponibilidad en todos los servicios de la oferta
+            var servicios = new[] { command.Oferta.Vuelo, command.Oferta.Hotel, command.Oferta.Tour };
+            foreach (var servicio in servicios)
             {
-                Console.WriteLine($"Buscando adaptador para tipo: {servicio.Tipo}");
-                var adapter = _proveedores.FirstOrDefault(p => p.GetType().Name.Contains(servicio.Tipo));
+                if (servicio == null) continue; // Puede que no haya vuelo, hotel o tour
+
+                // Buscar adaptador por tipo
+                var tipo = servicio.GetType().Name.Replace("DetalleServicio", "");
+                var adapter = _proveedores.FirstOrDefault(p => p.GetType().Name.Contains(tipo));
                 if (adapter == null)
                 {
-                    Console.WriteLine($"No se encontró adaptador para tipo: {servicio.Tipo}");
+                    Console.WriteLine($"No se encontró adaptador para tipo: {tipo}");
                     return false;
                 }
                 if (!adapter.ConsultarDisponibilidad(servicio))
                 {
-                    Console.WriteLine($"No hay disponibilidad para tipo: {servicio.Tipo}");
+                    Console.WriteLine($"No hay disponibilidad para tipo: {tipo}");
                     return false;
                 }
             }
 
             // 2. Crear reserva
-            var reserva = new Reserva(command.Servicios, command.MontoTotal);
-            reserva.Confirmar();
+            var reserva = new Reserva
+            {
+                Oferta = command.Oferta,
+                MontoTotal = command.MontoTotal,
+                Estado = Core.Aggregates.EstadoReserva.Pendiente,
+                Pagos = new System.Collections.Generic.List<Pago>()
+            };
+
             _reservaRepository.Add(reserva);
 
             // 3. Procesar pago
@@ -48,15 +58,19 @@ namespace Application.Handlers
             if (!pagoExitoso)
                 return false;
 
-            reserva.MarcarPagada();
+            reserva.Estado = Core.Aggregates.EstadoReserva.Confirmada;
+            reserva.Pagos.Add(new Pago
+            {
+                Monto = command.MontoTotal,
+                FechaPago = DateTime.Now,
+                EsPagoCompleto = command.PagoCompleto
+            });
             _reservaRepository.Update(reserva);
 
-            // 4. Enviar vouchers (puedes usar un servicio de notificación aquí)
-            // NotificacionService.EnviarVouchers(reserva);
+            // 4. (Opcional) Generar y asociar voucher
+            // reserva.Voucher = new Voucher { ... };
 
             return true;
-
-
         }
     }
 }

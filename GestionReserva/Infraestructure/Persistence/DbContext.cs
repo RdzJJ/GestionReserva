@@ -1,5 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Core.Entities;
+using Core.Aggregates;
+using Core.ValueObjects;
 
 namespace Infrastructure.Persistence
 {
@@ -11,6 +13,6 @@ namespace Infrastructure.Persistence
         }
 
         public DbSet<Reserva> Reservas { get; set; }
-        public DbSet<ServicioReservado> ServiciosReservados { get; set; }
+        public DbSet<DetalleServicio> DetalleServicio { get; set; }
     }
 }

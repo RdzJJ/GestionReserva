@@ -6,6 +6,7 @@ using Infrastructure.Adapters;
 using Infrastructure.Services;
 using Infrastructure.Repositories;
 using Core.Interfaces;
+using Core.Aggregates;
 
 namespace API.Controllers
 {
@@ -21,6 +22,7 @@ namespace API.Controllers
             {
                 new ProveedorHotelAdapter(),
                 new ProveedorVueloAdapter(),
+                new ProveedorTourAdapter()
             };
             var pagoService = new PagoService();
             var reservaRepository = new ReservaRepository();
@@ -28,7 +30,7 @@ namespace API.Controllers
         }
 
         [HttpPost]
-        public IActionResult CrearReserva(CrearReservaCommand command)
+        public IActionResult CrearReserva([FromBody] CrearReservaCommand command)
         {
             var resultado = _handler.Handle(command);
             if (!resultado)
