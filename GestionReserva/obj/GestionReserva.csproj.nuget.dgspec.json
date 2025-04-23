@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Universidad\\Séptimo semestre\\Arquitectura\\Entrega3\\GestionReserva\\GestionReserva\\GestionReserva.csproj": {}
+    "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\GestionReserva.csproj": {}
   },
   "projects": {
-    "D:\\Universidad\\Séptimo semestre\\Arquitectura\\Entrega3\\GestionReserva\\GestionReserva\\GestionReserva.csproj": {
+    "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\GestionReserva.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Universidad\\Séptimo semestre\\Arquitectura\\Entrega3\\GestionReserva\\GestionReserva\\GestionReserva.csproj",
+        "projectUniqueName": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\GestionReserva.csproj",
         "projectName": "GestionReserva",
-        "projectPath": "D:\\Universidad\\Séptimo semestre\\Arquitectura\\Entrega3\\GestionReserva\\GestionReserva\\GestionReserva.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Universidad\\Séptimo semestre\\Arquitectura\\Entrega3\\GestionReserva\\GestionReserva\\obj\\",
+        "projectPath": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\GestionReserva.csproj",
+        "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\crist\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -89,6 +90,10 @@
             "Microsoft.Extensions.Caching.Memory": {
               "target": "Package",
               "version": "[9.0.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
             }
           },
           "imports": [

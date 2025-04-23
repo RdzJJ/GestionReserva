@@ -1,9 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Aplication",
-    "\\Aplication\\Commands"
+    "\\API",
+    "\\Application",
+    "\\Application\\Commands",
+    "\\Application\\DTOs",
+    "\\Application\\Handlers",
+    "\\Application\\Queries",
+    "\\Core\\Interfaces",
+    "\\Infraestructure",
+    "\\Properties"
   ],
-  "SelectedNode": "\\Aplication\\Commands\\algo.txt",
+  "SelectedNode": "\\API\\Controllers\\ReservasController.cs",
   "PreviewInSolutionExplorer": false
 }

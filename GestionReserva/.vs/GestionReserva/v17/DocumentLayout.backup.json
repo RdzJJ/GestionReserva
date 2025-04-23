@@ -1,7 +1,275 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Universidad\\S\u00E9ptimo semestre\\Arquitectura\\Entrega3\\GestionReserva\\GestionReserva\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\API\\Controllers\\ReservasController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API\\Controllers\\ReservasController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\API\\Controllers\\ProveedoresWebhookController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API\\Controllers\\ProveedoresWebhookController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\API\\Controllers\\PagosWebhookController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API\\Controllers\\PagosWebhookController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Infraestructure\\Repositories\\ReservaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infraestructure\\Repositories\\ReservaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\Queries\\ObtenerReservasPorUsuarioQuery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Queries\\ObtenerReservasPorUsuarioQuery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\Handlers\\ObtenerReservasPorUsuarioHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Handlers\\ObtenerReservasPorUsuarioHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Infraestructure\\Persistence\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infraestructure\\Persistence\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Interfaces\\IReservaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Interfaces\\IReservaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Infraestructure\\Configuration\\ReservaConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infraestructure\\Configuration\\ReservaConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Infraestructure\\Services\\MockServicioPagosAdapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infraestructure\\Services\\MockServicioPagosAdapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Infraestructure\\Services\\MockProveedorServiceAdapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infraestructure\\Services\\MockProveedorServiceAdapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\Handlers\\ObtenerReservaPorIdHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Handlers\\ObtenerReservaPorIdHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\Handlers\\ProcesarConfirmacionProveedorHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Handlers\\ProcesarConfirmacionProveedorHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\Handlers\\ProcesarConfirmacionPagoHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Handlers\\ProcesarConfirmacionPagoHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\Handlers\\CancelarReservaHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Handlers\\CancelarReservaHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\Handlers\\RegistrarPagoHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Handlers\\RegistrarPagoHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\Handlers\\CrearReservaHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Handlers\\CrearReservaHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\Queries\\ObtenerReservaQuery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Queries\\ObtenerReservaQuery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\Commands\\CancelarReservaCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Commands\\CancelarReservaCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\Commands\\ProcesarConfirmacionProveedorCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Commands\\ProcesarConfirmacionProveedorCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\Commands\\ProcesarConfirmacionPagoCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Commands\\ProcesarConfirmacionPagoCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\Commands\\RegistrarPagoCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Commands\\RegistrarPagoCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\Commands\\CrearReservaCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Commands\\CrearReservaCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\DTOs\\ServicioConfirmadoWebhookDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\DTOs\\ServicioConfirmadoWebhookDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\DTOs\\PagoConfirmadoWebhookDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\DTOs\\PagoConfirmadoWebhookDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\DTOs\\ReservaDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\DTOs\\ReservaDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\DTOs\\VoucherDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\DTOs\\VoucherDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\DTOs\\PagoDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\DTOs\\PagoDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\DTOs\\OfertaDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\DTOs\\OfertaDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\DTOs\\DetalleServicioDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\DTOs\\DetalleServicioDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\DTOs\\MontoDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\DTOs\\MontoDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\DTOs\\FechasDeViajeDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\DTOs\\FechasDeViajeDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\DTOs\\DestinoDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\DTOs\\DestinoDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Interfaces\\IServicioPagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Interfaces\\IServicioPagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Interfaces\\IProveedorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Interfaces\\IProveedorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Interfaces\\IUnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Interfaces\\IUnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Interfaces\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Interfaces\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Events\\DomainEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Events\\DomainEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Events\\PagoConfirmadoExternamenteEvent.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Events\\PagoConfirmadoExternamenteEvent.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Events\\PagoRealizadoEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Events\\PagoRealizadoEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Events\\ReservaCanceladaEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Events\\ReservaCanceladaEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Events\\ReservaConfirmadaEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Events\\ReservaConfirmadaEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Events\\ReservaCreadaEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Events\\ReservaCreadaEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Events\\ServicioConfirmadoExternamenteEvent.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Events\\ServicioConfirmadoExternamenteEvent.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Events\\TodosServiciosConfirmadosExternamenteEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Events\\TodosServiciosConfirmadosExternamenteEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Aggregates\\ReservaAggregate\\Reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Aggregates\\ReservaAggregate\\Reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Aggregates\\ReservaAggregate\\AggregateRoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Aggregates\\ReservaAggregate\\AggregateRoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Aggregates\\ReservaAggregate\\Voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Aggregates\\ReservaAggregate\\Voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Aggregates\\ReservaAggregate\\Pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Aggregates\\ReservaAggregate\\Pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Aggregates\\ReservaAggregate\\OfertaPersonalizada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Aggregates\\ReservaAggregate\\OfertaPersonalizada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Aggregates\\ReservaAggregate\\DetalleServicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Aggregates\\ReservaAggregate\\DetalleServicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\ValueObjects\\TipoPago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\ValueObjects\\TipoPago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\ValueObjects\\EstadoReserva.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\ValueObjects\\EstadoReserva.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\ValueObjects\\TipoServicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\ValueObjects\\TipoServicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\ValueObjects\\FechasDeViaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\ValueObjects\\FechasDeViaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\ValueObjects\\Destino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\ValueObjects\\Destino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\ValueObjects\\VoucherId.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\ValueObjects\\VoucherId.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\ValueObjects\\PagoId.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\ValueObjects\\PagoId.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\ValueObjects\\OfertaId.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\ValueObjects\\OfertaId.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\ValueObjects\\Monto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\ValueObjects\\Monto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\ValueObjects\\ReservaId.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\ValueObjects\\ReservaId.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\ValueObjects\\ValueObjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\ValueObjects\\ValueObjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Universidad\\S\u00E9ptimo semestre\\Arquitectura\\Entrega3\\GestionReserva\\GestionReserva\\Aplication\\Commands\\algo.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,7 +277,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 295,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +294,819 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReservaRepository.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Infraestructure\\Repositories\\ReservaRepository.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Repositories\\ReservaRepository.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Infraestructure\\Repositories\\ReservaRepository.cs",
+              "RelativeToolTip": "Infraestructure\\Repositories\\ReservaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T06:16:25.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ObtenerReservasPorUsuarioQuery.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\Queries\\ObtenerReservasPorUsuarioQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Queries\\ObtenerReservasPorUsuarioQuery.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\Queries\\ObtenerReservasPorUsuarioQuery.cs",
+              "RelativeToolTip": "Application\\Queries\\ObtenerReservasPorUsuarioQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T06:01:07.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PagosWebhookController.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\API\\Controllers\\PagosWebhookController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\PagosWebhookController.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\API\\Controllers\\PagosWebhookController.cs",
+              "RelativeToolTip": "API\\Controllers\\PagosWebhookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:50:57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProveedoresWebhookController.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\API\\Controllers\\ProveedoresWebhookController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ProveedoresWebhookController.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\API\\Controllers\\ProveedoresWebhookController.cs",
+              "RelativeToolTip": "API\\Controllers\\ProveedoresWebhookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:38:19.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReservasController.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\API\\Controllers\\ReservasController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ReservasController.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\API\\Controllers\\ReservasController.cs",
+              "RelativeToolTip": "API\\Controllers\\ReservasController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:40:34.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ObtenerReservasPorUsuarioHandler.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\Handlers\\ObtenerReservasPorUsuarioHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Handlers\\ObtenerReservasPorUsuarioHandler.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\Handlers\\ObtenerReservasPorUsuarioHandler.cs",
+              "RelativeToolTip": "Application\\Handlers\\ObtenerReservasPorUsuarioHandler.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T06:13:38.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T06:22:00.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Infraestructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Infraestructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "Infraestructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T06:15:15.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IReservaRepository.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Interfaces\\IReservaRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IReservaRepository.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Interfaces\\IReservaRepository.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IReservaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:36:59.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReservaConfiguration.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Infraestructure\\Configuration\\ReservaConfiguration.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Configuration\\ReservaConfiguration.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Infraestructure\\Configuration\\ReservaConfiguration.cs",
+              "RelativeToolTip": "Infraestructure\\Configuration\\ReservaConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAJQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T06:15:52.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T06:26:24.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T06:26:28.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T06:26:54.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MockServicioPagosAdapter.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Infraestructure\\Services\\MockServicioPagosAdapter.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Services\\MockServicioPagosAdapter.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Infraestructure\\Services\\MockServicioPagosAdapter.cs",
+              "RelativeToolTip": "Infraestructure\\Services\\MockServicioPagosAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T06:18:47.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MockProveedorServiceAdapter.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Infraestructure\\Services\\MockProveedorServiceAdapter.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Services\\MockProveedorServiceAdapter.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Infraestructure\\Services\\MockProveedorServiceAdapter.cs",
+              "RelativeToolTip": "Infraestructure\\Services\\MockProveedorServiceAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T06:17:55.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ObtenerReservaPorIdHandler.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\Handlers\\ObtenerReservaPorIdHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Handlers\\ObtenerReservaPorIdHandler.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\Handlers\\ObtenerReservaPorIdHandler.cs",
+              "RelativeToolTip": "Application\\Handlers\\ObtenerReservaPorIdHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T06:13:15.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProcesarConfirmacionProveedorHandler.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\Handlers\\ProcesarConfirmacionProveedorHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Handlers\\ProcesarConfirmacionProveedorHandler.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\Handlers\\ProcesarConfirmacionProveedorHandler.cs",
+              "RelativeToolTip": "Application\\Handlers\\ProcesarConfirmacionProveedorHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T06:12:29.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProcesarConfirmacionPagoHandler.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\Handlers\\ProcesarConfirmacionPagoHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Handlers\\ProcesarConfirmacionPagoHandler.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\Handlers\\ProcesarConfirmacionPagoHandler.cs",
+              "RelativeToolTip": "Application\\Handlers\\ProcesarConfirmacionPagoHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T06:12:10.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CancelarReservaHandler.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\Handlers\\CancelarReservaHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Handlers\\CancelarReservaHandler.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\Handlers\\CancelarReservaHandler.cs",
+              "RelativeToolTip": "Application\\Handlers\\CancelarReservaHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T06:11:48.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegistrarPagoHandler.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\Handlers\\RegistrarPagoHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Handlers\\RegistrarPagoHandler.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\Handlers\\RegistrarPagoHandler.cs",
+              "RelativeToolTip": "Application\\Handlers\\RegistrarPagoHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T06:10:17.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CrearReservaHandler.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\Handlers\\CrearReservaHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Handlers\\CrearReservaHandler.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\Handlers\\CrearReservaHandler.cs",
+              "RelativeToolTip": "Application\\Handlers\\CrearReservaHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T06:02:38.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ObtenerReservaQuery.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\Queries\\ObtenerReservaQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Queries\\ObtenerReservaQuery.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\Queries\\ObtenerReservaQuery.cs",
+              "RelativeToolTip": "Application\\Queries\\ObtenerReservaQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T06:00:44.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CancelarReservaCommand.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\Commands\\CancelarReservaCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\CancelarReservaCommand.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\Commands\\CancelarReservaCommand.cs",
+              "RelativeToolTip": "Application\\Commands\\CancelarReservaCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:59:57.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProcesarConfirmacionProveedorCommand.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\Commands\\ProcesarConfirmacionProveedorCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\ProcesarConfirmacionProveedorCommand.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\Commands\\ProcesarConfirmacionProveedorCommand.cs",
+              "RelativeToolTip": "Application\\Commands\\ProcesarConfirmacionProveedorCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:59:03.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProcesarConfirmacionPagoCommand.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\Commands\\ProcesarConfirmacionPagoCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\ProcesarConfirmacionPagoCommand.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\Commands\\ProcesarConfirmacionPagoCommand.cs",
+              "RelativeToolTip": "Application\\Commands\\ProcesarConfirmacionPagoCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:58:33.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RegistrarPagoCommand.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\Commands\\RegistrarPagoCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\RegistrarPagoCommand.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\Commands\\RegistrarPagoCommand.cs",
+              "RelativeToolTip": "Application\\Commands\\RegistrarPagoCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:58:00.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CrearReservaCommand.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\Commands\\CrearReservaCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\CrearReservaCommand.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\Commands\\CrearReservaCommand.cs",
+              "RelativeToolTip": "Application\\Commands\\CrearReservaCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:57:11.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ServicioConfirmadoWebhookDto.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\DTOs\\ServicioConfirmadoWebhookDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ServicioConfirmadoWebhookDto.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\DTOs\\ServicioConfirmadoWebhookDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\ServicioConfirmadoWebhookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:56:36.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PagoConfirmadoWebhookDto.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\DTOs\\PagoConfirmadoWebhookDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\PagoConfirmadoWebhookDto.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\DTOs\\PagoConfirmadoWebhookDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\PagoConfirmadoWebhookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:55:56.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ReservaDto.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\DTOs\\ReservaDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ReservaDto.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\DTOs\\ReservaDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\ReservaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:55:17.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "VoucherDto.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\DTOs\\VoucherDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\VoucherDto.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\DTOs\\VoucherDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\VoucherDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:54:52.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PagoDto.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\DTOs\\PagoDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\PagoDto.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\DTOs\\PagoDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\PagoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:54:21.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OfertaDto.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\DTOs\\OfertaDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\OfertaDto.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\DTOs\\OfertaDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\OfertaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:53:56.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DetalleServicioDto.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\DTOs\\DetalleServicioDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\DetalleServicioDto.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\DTOs\\DetalleServicioDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\DetalleServicioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:53:17.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MontoDto.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\DTOs\\MontoDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\MontoDto.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\DTOs\\MontoDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\MontoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:52:49.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FechasDeViajeDto.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\DTOs\\FechasDeViajeDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\FechasDeViajeDto.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\DTOs\\FechasDeViajeDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\FechasDeViajeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:52:23.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DestinoDto.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\DTOs\\DestinoDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\DestinoDto.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Application\\DTOs\\DestinoDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\DestinoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:51:52.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IServicioPagos.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Interfaces\\IServicioPagos.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IServicioPagos.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Interfaces\\IServicioPagos.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IServicioPagos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:43:11.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IProveedorService.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Interfaces\\IProveedorService.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IProveedorService.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Interfaces\\IProveedorService.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IProveedorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:42:43.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:36:21.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:35:08.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ReservaConfirmadaEvent.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Events\\ReservaConfirmadaEvent.cs",
+              "RelativeDocumentMoniker": "Core\\Events\\ReservaConfirmadaEvent.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Events\\ReservaConfirmadaEvent.cs",
+              "RelativeToolTip": "Core\\Events\\ReservaConfirmadaEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:15:44.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DomainEvent.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Events\\DomainEvent.cs",
+              "RelativeDocumentMoniker": "Core\\Events\\DomainEvent.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Events\\DomainEvent.cs",
+              "RelativeToolTip": "Core\\Events\\DomainEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:54:51.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ReservaCreadaEvent.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Events\\ReservaCreadaEvent.cs",
+              "RelativeDocumentMoniker": "Core\\Events\\ReservaCreadaEvent.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Events\\ReservaCreadaEvent.cs",
+              "RelativeToolTip": "Core\\Events\\ReservaCreadaEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:12:10.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ReservaCanceladaEvent.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Events\\ReservaCanceladaEvent.cs",
+              "RelativeDocumentMoniker": "Core\\Events\\ReservaCanceladaEvent.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Events\\ReservaCanceladaEvent.cs",
+              "RelativeToolTip": "Core\\Events\\ReservaCanceladaEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:20:04.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PagoRealizadoEvent.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Events\\PagoRealizadoEvent.cs",
+              "RelativeDocumentMoniker": "Core\\Events\\PagoRealizadoEvent.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Events\\PagoRealizadoEvent.cs",
+              "RelativeToolTip": "Core\\Events\\PagoRealizadoEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:25:48.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PagoConfirmadoExternamenteEvent.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Events\\PagoConfirmadoExternamenteEvent.cs",
+              "RelativeDocumentMoniker": "Core\\Events\\PagoConfirmadoExternamenteEvent.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Events\\PagoConfirmadoExternamenteEvent.cs",
+              "RelativeToolTip": "Core\\Events\\PagoConfirmadoExternamenteEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:27:11.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ServicioConfirmadoExternamenteEvent.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Events\\ServicioConfirmadoExternamenteEvent.cs",
+              "RelativeDocumentMoniker": "Core\\Events\\ServicioConfirmadoExternamenteEvent.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Events\\ServicioConfirmadoExternamenteEvent.cs",
+              "RelativeToolTip": "Core\\Events\\ServicioConfirmadoExternamenteEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:28:47.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "TodosServiciosConfirmadosExternamenteEvent.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Events\\TodosServiciosConfirmadosExternamenteEvent.cs",
+              "RelativeDocumentMoniker": "Core\\Events\\TodosServiciosConfirmadosExternamenteEvent.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Events\\TodosServiciosConfirmadosExternamenteEvent.cs",
+              "RelativeToolTip": "Core\\Events\\TodosServiciosConfirmadosExternamenteEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:30:26.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Aggregates\\ReservaAggregate\\Reserva.cs",
+              "RelativeDocumentMoniker": "Core\\Aggregates\\ReservaAggregate\\Reserva.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Aggregates\\ReservaAggregate\\Reserva.cs",
+              "RelativeToolTip": "Core\\Aggregates\\ReservaAggregate\\Reserva.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAiwHIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:52:56.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AggregateRoot.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Aggregates\\ReservaAggregate\\AggregateRoot.cs",
+              "RelativeDocumentMoniker": "Core\\Aggregates\\ReservaAggregate\\AggregateRoot.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Aggregates\\ReservaAggregate\\AggregateRoot.cs",
+              "RelativeToolTip": "Core\\Aggregates\\ReservaAggregate\\AggregateRoot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:52:05.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Voucher.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Aggregates\\ReservaAggregate\\Voucher.cs",
+              "RelativeDocumentMoniker": "Core\\Aggregates\\ReservaAggregate\\Voucher.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Aggregates\\ReservaAggregate\\Voucher.cs",
+              "RelativeToolTip": "Core\\Aggregates\\ReservaAggregate\\Voucher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:51:43.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Pago.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Aggregates\\ReservaAggregate\\Pago.cs",
+              "RelativeDocumentMoniker": "Core\\Aggregates\\ReservaAggregate\\Pago.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Aggregates\\ReservaAggregate\\Pago.cs",
+              "RelativeToolTip": "Core\\Aggregates\\ReservaAggregate\\Pago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:51:19.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "OfertaPersonalizada.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Aggregates\\ReservaAggregate\\OfertaPersonalizada.cs",
+              "RelativeDocumentMoniker": "Core\\Aggregates\\ReservaAggregate\\OfertaPersonalizada.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Aggregates\\ReservaAggregate\\OfertaPersonalizada.cs",
+              "RelativeToolTip": "Core\\Aggregates\\ReservaAggregate\\OfertaPersonalizada.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:50:46.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "DetalleServicio.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Aggregates\\ReservaAggregate\\DetalleServicio.cs",
+              "RelativeDocumentMoniker": "Core\\Aggregates\\ReservaAggregate\\DetalleServicio.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\Aggregates\\ReservaAggregate\\DetalleServicio.cs",
+              "RelativeToolTip": "Core\\Aggregates\\ReservaAggregate\\DetalleServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:49:10.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "TipoPago.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\ValueObjects\\TipoPago.cs",
+              "RelativeDocumentMoniker": "Core\\ValueObjects\\TipoPago.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\ValueObjects\\TipoPago.cs",
+              "RelativeToolTip": "Core\\ValueObjects\\TipoPago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:48:00.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "EstadoReserva.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\ValueObjects\\EstadoReserva.cs",
+              "RelativeDocumentMoniker": "Core\\ValueObjects\\EstadoReserva.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\ValueObjects\\EstadoReserva.cs",
+              "RelativeToolTip": "Core\\ValueObjects\\EstadoReserva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:46:48.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "TipoServicio.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\ValueObjects\\TipoServicio.cs",
+              "RelativeDocumentMoniker": "Core\\ValueObjects\\TipoServicio.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\ValueObjects\\TipoServicio.cs",
+              "RelativeToolTip": "Core\\ValueObjects\\TipoServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:43:51.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "FechasDeViaje.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\ValueObjects\\FechasDeViaje.cs",
+              "RelativeDocumentMoniker": "Core\\ValueObjects\\FechasDeViaje.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\ValueObjects\\FechasDeViaje.cs",
+              "RelativeToolTip": "Core\\ValueObjects\\FechasDeViaje.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:37:18.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Destino.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\ValueObjects\\Destino.cs",
+              "RelativeDocumentMoniker": "Core\\ValueObjects\\Destino.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\ValueObjects\\Destino.cs",
+              "RelativeToolTip": "Core\\ValueObjects\\Destino.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:36:59.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "VoucherId.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\ValueObjects\\VoucherId.cs",
+              "RelativeDocumentMoniker": "Core\\ValueObjects\\VoucherId.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\ValueObjects\\VoucherId.cs",
+              "RelativeToolTip": "Core\\ValueObjects\\VoucherId.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:36:24.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "PagoId.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\ValueObjects\\PagoId.cs",
+              "RelativeDocumentMoniker": "Core\\ValueObjects\\PagoId.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\ValueObjects\\PagoId.cs",
+              "RelativeToolTip": "Core\\ValueObjects\\PagoId.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:35:46.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "OfertaId.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\ValueObjects\\OfertaId.cs",
+              "RelativeDocumentMoniker": "Core\\ValueObjects\\OfertaId.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\ValueObjects\\OfertaId.cs",
+              "RelativeToolTip": "Core\\ValueObjects\\OfertaId.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:35:15.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Monto.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\ValueObjects\\Monto.cs",
+              "RelativeDocumentMoniker": "Core\\ValueObjects\\Monto.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\ValueObjects\\Monto.cs",
+              "RelativeToolTip": "Core\\ValueObjects\\Monto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T03:02:55.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ReservaId.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\ValueObjects\\ReservaId.cs",
+              "RelativeDocumentMoniker": "Core\\ValueObjects\\ReservaId.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\ValueObjects\\ReservaId.cs",
+              "RelativeToolTip": "Core\\ValueObjects\\ReservaId.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:55:59.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ValueObjects.cs",
+              "DocumentMoniker": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\ValueObjects\\ValueObjects.cs",
+              "RelativeDocumentMoniker": "Core\\ValueObjects\\ValueObjects.cs",
+              "ToolTip": "D:\\Documents\\workspace-u\\ArquitecturaSoftware\\CSharp\\DDD_Entrega3\\GestionReserva\\GestionReserva\\Core\\ValueObjects\\ValueObjects.cs",
+              "RelativeToolTip": "Core\\ValueObjects\\ValueObjects.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:46:44.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "algo.txt",
+              "DocumentMoniker": "D:\\Universidad\\S\u00E9ptimo semestre\\Arquitectura\\Entrega3\\GestionReserva\\GestionReserva\\Aplication\\Commands\\algo.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Universidad\\S\u00E9ptimo semestre\\Arquitectura\\Entrega3\\GestionReserva\\GestionReserva\\Aplication\\Commands\\algo.txt",
+              "ToolTip": "D:\\Universidad\\S\u00E9ptimo semestre\\Arquitectura\\Entrega3\\GestionReserva\\GestionReserva\\Aplication\\Commands\\algo.txt",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Universidad\\S\u00E9ptimo semestre\\Arquitectura\\Entrega3\\GestionReserva\\GestionReserva\\Aplication\\Commands\\algo.txt",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-22T02:11:49.212Z"
             }
           ]
         }
