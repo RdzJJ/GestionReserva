@@ -169,3 +169,4 @@ D:\Universidad\Séptimo semestre\Arquitectura\Entrega3\GestionReserva\GestionRes
 D:\Universidad\Séptimo semestre\Arquitectura\Entrega3\GestionReserva\GestionReserva\obj\Debug\net9.0\GestionReserva.pdb
 D:\Universidad\Séptimo semestre\Arquitectura\Entrega3\GestionReserva\GestionReserva\obj\Debug\net9.0\GestionReserva.genruntimeconfig.cache
 D:\Universidad\Séptimo semestre\Arquitectura\Entrega3\GestionReserva\GestionReserva\obj\Debug\net9.0\ref\GestionReserva.dll
+D:\Universidad\Séptimo semestre\Arquitectura\Entrega3\GestionReserva\GestionReserva\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

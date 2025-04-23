@@ -1,17 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\API",
-    "\\API\\Controllers",
-    "\\Aplication",
-    "\\Core",
-    "\\Core\\Aggregates",
-    "\\Core\\Interfaces",
-    "\\Core\\ValueObjects",
-    "\\Infraestructure",
-    "\\Infraestructure\\Adapters",
-    "\\Infraestructure\\Persistence"
+    ""
   ],
-  "SelectedNode": "\\Infraestructure\\Persistence\\DbContext.cs",
+  "SelectedNode": "\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
