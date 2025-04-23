@@ -1,0 +1,8 @@
+D:\Universidad\Séptimo semestre\Arquitectura\Entrega3\GestionReserva\GestionReserva\obj\Debug\net9.0\GestionReserva.csproj.AssemblyReference.cache
+D:\Universidad\Séptimo semestre\Arquitectura\Entrega3\GestionReserva\GestionReserva\obj\Debug\net9.0\GestionReserva.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\Séptimo semestre\Arquitectura\Entrega3\GestionReserva\GestionReserva\obj\Debug\net9.0\GestionReserva.AssemblyInfoInputs.cache
+D:\Universidad\Séptimo semestre\Arquitectura\Entrega3\GestionReserva\GestionReserva\obj\Debug\net9.0\GestionReserva.AssemblyInfo.cs
+D:\Universidad\Séptimo semestre\Arquitectura\Entrega3\GestionReserva\GestionReserva\obj\Debug\net9.0\GestionReserva.csproj.CoreCompileInputs.cache
+D:\Universidad\Séptimo semestre\Arquitectura\Entrega3\GestionReserva\GestionReserva\obj\Debug\net9.0\GestionReserva.MvcApplicationPartsAssemblyInfo.cs
+D:\Universidad\Séptimo semestre\Arquitectura\Entrega3\GestionReserva\GestionReserva\obj\Debug\net9.0\GestionReserva.MvcApplicationPartsAssemblyInfo.cache
+D:\Universidad\Séptimo semestre\Arquitectura\Entrega3\GestionReserva\GestionReserva\obj\Debug\net9.0\GestionReserva.sourcelink.json

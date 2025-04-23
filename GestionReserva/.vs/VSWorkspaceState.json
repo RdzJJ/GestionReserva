@@ -2,8 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\Aplication",
-    "\\Aplication\\Commands"
+    "\\Aplication\\Commands",
+    "\\Core",
+    "\\Core\\Entities",
+    "\\Core\\Interfaces",
+    "\\Infraestructure"
   ],
-  "SelectedNode": "\\Aplication\\Commands\\algo.txt",
+  "SelectedNode": "\\Core\\Interfaces\\IProveedorAdapter.cs",
   "PreviewInSolutionExplorer": false
 }
